@@ -6,6 +6,8 @@ GetNewTipIntent tell me a green tip
 GetNewTipIntent tell me an environmental tip
 GetNewTipIntent give me a tip
 GetNewTipIntent give me a green tip
+GetNewTipIntent give me another one
+GetNewTipIntent and another one
 GetNewTipIntent give me an environmental tip
 GetNewTipIntent give me some information
 GetNewTipIntent give me some green information
